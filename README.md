@@ -39,14 +39,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Populate Animals table with values]**
-- **[Table Queries]**
-- **[Query Result]**
+- **[Populate invoice, invoice-items, medical_histories, patients, and treatments tables without values]**
 - **[Primary key and foreign key]**
-- **[one-to-many relationships]**
-- **[Queries that answer analytical and specific questions]**
-- **[Database performance audit]**
-
+- **[many-to-many relationships]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -88,6 +83,8 @@ Clone this repository to your desired folder:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **User authentication and authorization:**
+- [ ] **[Table Queries]**
+- [ ] **[Query Result]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
