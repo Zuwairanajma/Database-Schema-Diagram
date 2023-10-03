@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic Database] <a name="about-project"></a>
+# 📖 [Database Schema-Diagram] <a name="about-project"></a>
 
-**[Vet Clinic Database]** is a project uses a relational database to manage the data and records of a veterinary clinic. The postgreSQL is a database management system used for this project to create and query tables.
+**[Database Schema-Diagram]** is a project that ses a relational database diagram to create the schema.sql file using the information from the diagram.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,7 +60,7 @@ Install postgresql
 
 Clone this repository to your desired folder:
 
-  git clone git@github.com:Zuwairanajma/Vet-Clinic-Database.git
+  git clone git@github.com:Zuwairanajma/Database-Schema-Diagram.git
 
 <!-- AUTHORS -->
 
